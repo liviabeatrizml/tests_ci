@@ -2,6 +2,7 @@ import logging
 
 def fat(a):
     try:
+        # Teste de commit
         aux = 1
         for i in range(1, a+1):
             aux *= i
